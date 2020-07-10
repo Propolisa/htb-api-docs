@@ -1,0 +1,35 @@
+.site-title {
+  @include container;
+  font-family: neue-haas-unica;
+  font-weight: 600;
+  font-size: 32px !important;
+  padding:12px !important;
+  padding-right:2em !important;
+}
+
+.site-header {
+  border-bottom: 1px solid rgb(26, 35, 50);
+  background: no-repeat;
+  background-image: url('../../assets/images/header_mascot_undraw.svg');
+  background-size: 90px auto;
+  background-position: right center;
+  background-origin: content-box;
+  padding-right: 5px;
+  height: 100px;
+  max-height: 100px;
+}
+
+.main-header{
+  border-bottom: 1px solid rgb(26, 35, 50);
+}
+
+.side-bar {
+  border-right:1px solid rgb(26, 35, 50);
+}
+code {
+  background-color: #1A2332 !important;
+}
+
+.search-result-doc .search-result-doc-title{
+  overflow:hidden;
+}

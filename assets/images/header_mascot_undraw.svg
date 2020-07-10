@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="ab6d4b78-a8f6-485a-afcf-f519a4f8db63"
+   data-name="Layer 1"
+   width="520.68042"
+   height="586"
+   viewBox="0 0 520.68042 586.00001"
+   version="1.1"
+   sodipodi:docname="header_mascot_undraw.svg"
+   inkscape:export-filename="C:\Users\thspc\github\unofficial-htb-api-docs\htb-api-doc\assets\images\header_mascot_undraw.png"
+   inkscape:export-xdpi="16.409298"
+   inkscape:export-ydpi="16.409298"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>reminder</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1202" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1126"
+     inkscape:window-height="788"
+     id="namedview1200"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.67751485"
+     inkscape:cx="220.07896"
+     inkscape:cy="66.864706"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="ab6d4b78-a8f6-485a-afcf-f519a4f8db63" />
+  <title
+     id="title1139">reminder</title>
+  <polygon
+     points="633.944,200.247 634.64,200.964 624.625,176.833 529.768,270.217 508.139,322.339 "
+     id="polygon1151"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#9fef00" />
+  <polygon
+     points="624.212,175.837 612.456,147.507 551.082,218.857 531.737,265.474 623.511,175.124 "
+     id="polygon1153"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#9fef00" />
+  <polygon
+     points="612.026,146.473 596.573,109.235 553.541,212.932 611.269,145.82 "
+     id="polygon1155"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#9fef00" />
+  <polygon
+     points="596.573,695.235 839.754,695.235 718.164,402.235 635.052,201.958 506.202,327.005 474.983,402.235 353.393,695.235 "
+     id="polygon1157"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#9fef00" />
+  <polygon
+     points="563.073,620.65 563.073,664.898 673.283,510.235 647.508,510.235 "
+     id="polygon1161"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#29d0a4;fill-opacity:1" />
+  <polygon
+     points="563.073,568.354 563.073,617.358 644.991,510.235 611.229,510.235 "
+     id="polygon1163"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#29d0a4;fill-opacity:1" />
+  <polygon
+     points="563.073,565.219 608.632,510.235 563.073,510.235 "
+     id="polygon1165"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#29d0a4;fill-opacity:1" />
+  <polygon
+     points="675.738,510.235 563.073,668.344 563.073,695.235 843.073,695.235 843.073,510.235 "
+     id="polygon1167"
+     transform="translate(-353.393,-109.235)"
+     style="fill:#29d0a4;fill-opacity:1" />
+  <circle
+     cx="441.68039"
+     cy="295.99976"
+     r="79"
+     id="circle1169"
+     style="fill:#9f00ff;fill-opacity:1" />
+  <rect
+     x="-477.68039"
+     y="-400.99976"
+     width="24"
+     height="43"
+     transform="scale(-1)"
+     id="rect1171"
+     style="fill:#9f00ff;fill-opacity:1" />
+  <rect
+     x="-429.68039"
+     y="-400.99976"
+     width="24"
+     height="43"
+     transform="scale(-1)"
+     id="rect1173"
+     style="fill:#9f00ff;fill-opacity:1" />
+  <ellipse
+     cx="457.68039"
+     cy="401.49976"
+     rx="20"
+     ry="7.5"
+     id="ellipse1175"
+     style="fill:#9f00ff;fill-opacity:1" />
+  <ellipse
+     cx="409.68039"
+     cy="400.49976"
+     rx="20"
+     ry="7.5"
+     id="ellipse1177"
+     style="fill:#9f00ff;fill-opacity:1" />
+  <circle
+     cx="439.68039"
+     cy="275.99976"
+     r="27"
+     id="circle1179"
+     style="fill:#ffffff" />
+  <circle
+     cx="439.68039"
+     cy="275.99976"
+     r="9"
+     id="circle1181"
+     style="fill:#9f00ff;fill-opacity:1" />
+  <path
+     d="m 518.31306,222.53209 c 6.3789,-28.5676 -14.0118,-57.4339 -45.544,-64.4748 -31.5321,-7.0408 -62.2651,10.41 -68.644,38.9776 -6.3789,28.5676 14.5187,39.1038 46.0508,46.1447 31.5322,7.0408 61.7583,7.9201 68.1372,-20.6475 z"
+     id="path1183"
+     inkscape:connector-curvature="0"
+     style="fill:#9fef00" />
+</svg>
