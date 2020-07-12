@@ -1,9 +1,8 @@
 ---
 layout: page
 title: User
-permalink: /user/
 parent: Home
-nav_order: 1
+nav_order: 2
 ---
 
 <img src="https://app.hackthebox.eu/images/icons/ic-icons-kickass/ic-ranks-big2.svg" style="max-width:128px;float:right;" />

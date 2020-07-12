@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Machine
-permalink: /machine/
 parent: Home
-nav_order: 2
+nav_order: 3
 ---
+
 
 <img src="https://app.hackthebox.eu/images/icons/ic-icons-kickass/ic-machines-dark-border.svg" style="max-width:128px;float:right;" />
 

@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Self Operations
-permalink: /self/
+title: Self
 parent: Home
-nav_order: 3
+nav_order: 1
 ---
 
 <img src="https://app.hackthebox.eu/images/icons/ic-icons-kickass/ic-vip-big.svg" style="max-width:128px;float:right;" />
@@ -132,16 +131,40 @@ Submit / own a challenge flag:
 
 <span class="label label-purple">POST</span>
 Submit / own a machine flag:
+> (Flags here are not real ones for obvious reasons!)
 ```js
 /api/v4/machine/own
 ```
-`🛍️ PAYLOAD` 
+`🛍️ PAYLOAD(S)` 
 ```json
 {"flag":"r3523452345","id":244,"difficulty":20}
+```
+```json
+{
+	"flag": "2339393e949af088314cb027b65f4bcc",
+	"id": 244,
+	"difficulty": 30
+}
 ```
 `🥙 RESPONSE(S)`
 ```json
 {"message":"Incorrect flag!"}
+```
+
+```json
+{
+	"message": "Multimaster user is now owned.",
+	"id": 232,
+	"own_type": "user"
+}
+```
+
+```json
+{
+	"message": "Quick root is now owned.",
+	"id": 244,
+	"own_type": "root"
+}
 ```
 
 ### Marking Todos
@@ -301,9 +324,12 @@ Spawn a new instance of the identified machine:
 ```json
 {"message":"Machine not available for VIP."}
 ```
+```json
+{"message":"Machine deployed to lab."}
+```
 
 <span class="label label-purple">POST</span>
-Extend a runnning instance of the identified machine:
+Extend a running instance of the identified machine:
 ```js
 /api/v4/vm/spawn
 ```
