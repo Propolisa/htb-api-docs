@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Hack The Box v4 API Community Documentation
-<img src="https://raw.githubusercontent.com/Propolisa/unofficial-htb-api-docs/master/static/img/banner.png" alt="" width="640px">
+<img src="https://raw.githubusercontent.com/Propolisa/htb-api-docs/master/assets/images/banner.png" alt="" width="640px">
 
 ## Welcome to the community documentation for the Hack The Box v4 API!
 In celebration of the new API and site release, I am organizing available information about API endpoints and data types. I hope it will be helpful to the developers who want to create their own HTB-integrated tools (e.g. Discord bots, progress tracker, shortest-path-to-rank algorithm). Let me know what you make!
