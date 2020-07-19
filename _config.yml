@@ -29,7 +29,7 @@ github_username: Propolisa
 
 
 # Build settings
-theme: just-the-docs
+theme: remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 markdown: CommonMarkGhPages
 plugins:
