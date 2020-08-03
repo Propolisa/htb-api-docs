@@ -5,7 +5,7 @@ parent: Home
 nav_order: 1
 ---
 
-<img src="https://app.hackthebox.eu/images/icons/ic-icons-kickass/ic-vip-big.svg" style="max-width:128px;float:right;" />
+<img src="https://app.hackthebox.eu/images/icons/ic-icons-kickass/ic-vip-big.svg" style="max-width:128px;float:right;" width="128px"/>
 
 ## Data about yourself
 
