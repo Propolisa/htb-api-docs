@@ -12,3 +12,10 @@ Pages in this wiki are organized according to the API structure. You may use the
 Contributions are very welcome! If you know about an endpoint that's not listed here, or have a correction for the existing documentation, please feel free to get in touch with me or contribute directly to the wiki.
 
 Happy Hacking 👋
+
+### Endpoint Map Completion Progress:
+
+- [X] [api/machine](https://github.com/Propolisa/htb-api-docs/blob/master/api/machine/machine.md)
+- [ ] [api/challenge](#)
+- [X] [api/user](https://github.com/Propolisa/htb-api-docs/blob/master/api/user/user.md)
+- [X] [api/[self]](https://github.com/Propolisa/htb-api-docs/blob/master/api/self/self.md)
