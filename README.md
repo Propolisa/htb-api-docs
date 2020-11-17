@@ -16,7 +16,6 @@ Pages in this wiki are organized according to the API structure. You may use the
 
 [1]: https://twitter.com/Propolis709
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-Contributions are very welcome! If you would like to be added as a contributor to the Postman project, please feel free to get in touch with me on [Twitter](https://twitter.com/Propolis709) [![alt text][1.2]][1]
-. 
+Contributions are very welcome! If you would like to be added as a contributor to the Postman project, please feel free to get in touch with me on [![alt text][1.2]][1] [Twitter](https://twitter.com/Propolis709). 
 
 Happy Hacking 👋
